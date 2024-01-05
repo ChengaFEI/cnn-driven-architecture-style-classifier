@@ -1,0 +1,5 @@
+# Please download the dataset from the following link: https://drive.google.com/file/d/1Yt9CG-i1Ktt5NevSWfNTlQtQDt8PPyJR/view?usp=drive_link
+
+# Unzip the file and rename the folder to "dataset-lite-augumented"
+
+# Besides, you can find the raw data from the following link: https://drive.google.com/file/d/13_szSJ_DuF98blFr58l8hNftC2lXeWy1/view?usp=drive_link
