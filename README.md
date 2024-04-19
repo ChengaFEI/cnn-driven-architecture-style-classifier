@@ -205,7 +205,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ChengaFEI/cn
 ## Authors
 
 - **Cheng Fei** - _MEng CS student_ - [Cheng Fei](https://github.com/ChengaFEI) - _Built the project_
-- **David Lou** - _MEng CS student_ - [David Lou](https://github.com/AlphaWhiskyLou) - _Built the project_
-- **Wenjie Wang** - _MEng CS student_ - [Wenjie Wang](https://github.com/WenjieWangX) - _Built the project_
 
 ## Acknowledgements
